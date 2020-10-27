@@ -1,0 +1,12 @@
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\bin\Debug\02TaskPerformance1.exe.config
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\bin\Debug\02TaskPerformance1.exe
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\bin\Debug\02TaskPerformance1.pdb
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\obj\Debug\02TaskPerformance1.csprojAssemblyReference.cache
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\obj\Debug\_02TaskPerformance1.Form1.resources
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\obj\Debug\_02TaskPerformance1.Form2.resources
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\obj\Debug\_02TaskPerformance1.Properties.Resources.resources
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\obj\Debug\_02TaskPerformance1.View.resources
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\obj\Debug\02TaskPerformance1.csproj.GenerateResource.cache
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\obj\Debug\02TaskPerformance1.csproj.CoreCompileInputs.cache
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\obj\Debug\02TaskPerformance1.exe
+C:\Users\Pj Arago\source\repos\02TaskPerformance1\02TaskPerformance1\obj\Debug\02TaskPerformance1.pdb
